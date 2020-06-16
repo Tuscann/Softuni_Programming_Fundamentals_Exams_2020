@@ -1,0 +1,13 @@
+C:\Users\Az\Documents\Softuni_Programming_Fundamentals\Programming Fundamentals Final Exam Retake - 10 April 2020\03_Need_for_Speed_III\bin\Debug\net5.0\03_Need_for_Speed_III.exe
+C:\Users\Az\Documents\Softuni_Programming_Fundamentals\Programming Fundamentals Final Exam Retake - 10 April 2020\03_Need_for_Speed_III\bin\Debug\net5.0\03_Need_for_Speed_III.deps.json
+C:\Users\Az\Documents\Softuni_Programming_Fundamentals\Programming Fundamentals Final Exam Retake - 10 April 2020\03_Need_for_Speed_III\bin\Debug\net5.0\03_Need_for_Speed_III.runtimeconfig.json
+C:\Users\Az\Documents\Softuni_Programming_Fundamentals\Programming Fundamentals Final Exam Retake - 10 April 2020\03_Need_for_Speed_III\bin\Debug\net5.0\03_Need_for_Speed_III.runtimeconfig.dev.json
+C:\Users\Az\Documents\Softuni_Programming_Fundamentals\Programming Fundamentals Final Exam Retake - 10 April 2020\03_Need_for_Speed_III\bin\Debug\net5.0\03_Need_for_Speed_III.dll
+C:\Users\Az\Documents\Softuni_Programming_Fundamentals\Programming Fundamentals Final Exam Retake - 10 April 2020\03_Need_for_Speed_III\bin\Debug\net5.0\03_Need_for_Speed_III.pdb
+C:\Users\Az\Documents\Softuni_Programming_Fundamentals\Programming Fundamentals Final Exam Retake - 10 April 2020\03_Need_for_Speed_III\obj\Debug\net5.0\03_Need_for_Speed_III.csprojAssemblyReference.cache
+C:\Users\Az\Documents\Softuni_Programming_Fundamentals\Programming Fundamentals Final Exam Retake - 10 April 2020\03_Need_for_Speed_III\obj\Debug\net5.0\03_Need_for_Speed_III.AssemblyInfoInputs.cache
+C:\Users\Az\Documents\Softuni_Programming_Fundamentals\Programming Fundamentals Final Exam Retake - 10 April 2020\03_Need_for_Speed_III\obj\Debug\net5.0\03_Need_for_Speed_III.AssemblyInfo.cs
+C:\Users\Az\Documents\Softuni_Programming_Fundamentals\Programming Fundamentals Final Exam Retake - 10 April 2020\03_Need_for_Speed_III\obj\Debug\net5.0\03_Need_for_Speed_III.csproj.CoreCompileInputs.cache
+C:\Users\Az\Documents\Softuni_Programming_Fundamentals\Programming Fundamentals Final Exam Retake - 10 April 2020\03_Need_for_Speed_III\obj\Debug\net5.0\03_Need_for_Speed_III.dll
+C:\Users\Az\Documents\Softuni_Programming_Fundamentals\Programming Fundamentals Final Exam Retake - 10 April 2020\03_Need_for_Speed_III\obj\Debug\net5.0\03_Need_for_Speed_III.pdb
+C:\Users\Az\Documents\Softuni_Programming_Fundamentals\Programming Fundamentals Final Exam Retake - 10 April 2020\03_Need_for_Speed_III\obj\Debug\net5.0\03_Need_for_Speed_III.genruntimeconfig.cache
