@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea._03.00_Data_Types_and_Variables_Lab.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\Az\Documents\Softuni_Programming_Fundamentals\All Tasks\_03.00_Data_Types_and_Variables_Lab\.idea\.idea._03.00_Data_Types_and_Variables_Lab\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
