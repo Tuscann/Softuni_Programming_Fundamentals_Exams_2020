@@ -28,9 +28,7 @@ namespace _09._00_Kamino_Factory
 
                 for (int i = 0; i < array.Length; i++)
                 {
-                    int current = array[i];
-
-                    if (current == 1)
+                    if (array[i] == 1)
                     {
                         counter++;
 
