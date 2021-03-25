@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea._07.02 Objects and Classes - More Exercise.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\Az\Documents\Softuni_Programming_Fundamentals\All Tasks\_07.02 Objects and Classes - More Exercise\.idea\.idea._07.02 Objects and Classes - More Exercise\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
